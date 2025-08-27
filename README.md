@@ -45,10 +45,10 @@ The goal is to centralize bill data in a machine-readable format to support jour
 - **Journalists & Policy Researchers**  
 Track rhetorical patterns, legislative focus, and bill language across years
 
-- ** Advocates & Organizers**  
+- **Advocates & Organizers**  
 Monitor bill activity, access raw and cleaned text for educational or legal outreach
 
-- ** Data Scientists & Computational Social Scientists**  
+- **Data Scientists & Computational Social Scientists**  
 Apply NLP techniques such as topic modeling, clustering, or phrase analysis
 
 ---
@@ -79,7 +79,7 @@ The project includes two word clouds generated from the cleaned full-text data:
 
 ---
 
-##Next Steps
+## Next Steps
 
 - [ ] **Align cleaned bill texts** with their corresponding rows in the combined metadata file  
 - [ ] **Phase 2: Text Analysis**, including:
